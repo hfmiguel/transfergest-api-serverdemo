@@ -1,0 +1,54 @@
+{
+  "servicos": {
+    "Details": [
+      {
+        "Service": {
+          "ServiceReference": "554132",
+          "RequestReference": "ASD12",
+          "Date": "2022-01-30",
+          "Time": "12:00:00",
+          "Cancelled": "false",
+          "ClientName": "John Doe",
+          "ClientPhone": "1234567890",
+          "ClientEmail": "example@example.com",
+          "Hotel": "Hotel 1",
+          "Price": "100",
+          "Qty": "1",
+          "SpecialRequests": "None",
+          "LastChangeDate": "2020-01-30",
+          "Description": "Viatura 001",
+          "Capacity": "4",
+          "Flight": "Voo 001",
+          "FlightDate": "2020-01-30",
+          "FlightTime": "14:00:00",
+          "Origin": "Albufeira",
+          "Destination": "Faro"
+        }
+      },
+      {
+        "Service": {
+          "ServiceReference": "123423",
+          "RequestReference": "ASD17612",
+          "Date": "2022-01-30",
+          "Time": "13:00:00",
+          "Cancelled": "false",
+          "ClientName": "John Doe",
+          "ClientPhone": "1234567890",
+          "ClientEmail": "example@example.com",
+          "Hotel": "Hotel 1",
+          "Price": "100",
+          "Qty": "1",
+          "SpecialRequests": "None",
+          "LastChangeDate": "2020-01-30",
+          "Description": "Viatura 001",
+          "Capacity": "4",
+          "Flight": "Voo 001",
+          "FlightDate": "2020-01-30",
+          "FlightTime": "14:00:00",
+          "Origin": "Albufeira",
+          "Destination": "Faro"
+        }
+      }
+    ]
+  }
+}
